@@ -1,0 +1,14 @@
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\bin\Debug\ChessGameGUI.exe.config
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\bin\Debug\ChessGameGUI.exe
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\bin\Debug\ChessGameGUI.pdb
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\bin\Debug\ChessBoardModel.dll
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\bin\Debug\ChessBoardModel.pdb
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.csproj.AssemblyReference.cache
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.Form1.resources
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.Properties.Resources.resources
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.csproj.GenerateResource.cache
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.csproj.CopyComplete
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.exe
+C:\Users\agiro\source\repos\ChessGameGUI\ChessGameGUI\obj\Debug\ChessGameGUI.pdb
